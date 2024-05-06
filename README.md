@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Felix Ivander Ganumba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7EF00&duration=3000&center=true&vCenter=true&multiline=true&height=75&lines=Electrical+Engineering+Student;Data+Scientist"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7EF00&duration=3000&center=true&vCenter=true&multiline=true&height=75&lines=Data+Scientist+/+Data+Engineer"></a>
 </p>
 
 
