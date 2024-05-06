@@ -12,15 +12,14 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Student` at Electrical Engineering at `Universitas Sumatera Utara`
+- :school: I am the faculty's best graduate majoring in Electrical Engineering at `Universitas Sumatera Utara`
 - :books: `Bangkit 2022` Student - `Machine Learning` Learning Path
 - :trophy: `Pekan Ilmiah Mahasiswa Nasional 34` Favorite Winner (2021)
 - :trophy: `International Science Invention Fair 2020` Silver Medalist (2020)
 - :computer: Tech Savvy
 - :bar_chart: Data Scientist
 - :keyboard: Keyboard Enthusiast
-- :student: I’m currently learning: `Deep Learning` and `Computer Vision`.
-- :thinking: I’m currently open for: `Internship` or a new `job opportunity`, this is [MY RESUME]().
+- :thinking: I’m currently open for a new `job opportunity`.
 
 <br>
 
